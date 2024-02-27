@@ -1,9 +1,7 @@
 package com.paulobrusch.webServicesProject.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.paulobrusch.webServicesProject.entities.enums.Product;
 import jakarta.persistence.*;
-
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Objects;

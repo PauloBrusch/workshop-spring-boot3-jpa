@@ -3,7 +3,6 @@ package com.paulobrusch.webServicesProject.services;
 import com.paulobrusch.webServicesProject.entities.User;
 import com.paulobrusch.webServicesProject.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,11 +1,7 @@
 package com.paulobrusch.webServicesProject.config;
 
-import com.paulobrusch.webServicesProject.entities.Category;
-import com.paulobrusch.webServicesProject.entities.Order;
-import com.paulobrusch.webServicesProject.entities.OrderItem;
-import com.paulobrusch.webServicesProject.entities.User;
+import com.paulobrusch.webServicesProject.entities.*;
 import com.paulobrusch.webServicesProject.entities.enums.OrderStatus;
-import com.paulobrusch.webServicesProject.entities.enums.Product;
 import com.paulobrusch.webServicesProject.repositories.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

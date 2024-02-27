@@ -1,7 +1,6 @@
 package com.paulobrusch.webServicesProject.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.paulobrusch.webServicesProject.entities.enums.Product;
 import com.paulobrusch.webServicesProject.entities.pk.OrderItemPK;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;

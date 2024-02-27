@@ -1,6 +1,6 @@
 package com.paulobrusch.webServicesProject.resources;
 
-import com.paulobrusch.webServicesProject.entities.enums.Product;
+import com.paulobrusch.webServicesProject.entities.Product;
 import com.paulobrusch.webServicesProject.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

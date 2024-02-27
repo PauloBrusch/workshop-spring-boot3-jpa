@@ -1,6 +1,6 @@
 package com.paulobrusch.webServicesProject.services;
 
-import com.paulobrusch.webServicesProject.entities.enums.Product;
+import com.paulobrusch.webServicesProject.entities.Product;
 import com.paulobrusch.webServicesProject.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
