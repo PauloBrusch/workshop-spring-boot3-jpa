@@ -10,6 +10,7 @@ import java.util.Objects;
 
 @Embeddable
 public class OrderItemPK implements Serializable {
+    private static final long serialVersionUID = 1l;
 
     @ManyToOne
     @JoinColumn(name = "order_id")
